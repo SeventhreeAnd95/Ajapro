@@ -1,0 +1,195 @@
+nav {
+    background-color:#263348;
+}
+nav .nav-item a{
+    color:white;
+    font-size: 15px;
+}
+nav form button{
+    background-color: transparent;
+    border: none !important;
+    color:white;
+    margin-right: 30px;
+}
+nav form .btn{
+    background-color:#324ef9;color: white;
+}
+nav .dropdown-item{
+    color:#232323;
+}
+section .card-body{
+    background-color:#318CE7;
+}
+.card-header{
+    background-color:#89CFF0;
+    color:aliceblue;
+    }
+    .container .fw-bolder{
+        margin-top:30px;
+        
+    }
+    section .bg-light{
+        margin-bottom: 30px;
+    }
+    footer{
+    background-color:  rgba(204, 204, 204, 1.0);
+    font-family: Poppins,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    }
+    footer ul li {
+        list-style: none;
+        display: block;
+        }
+
+        footer ul  li a{
+            text-decoration: none;
+            color: grey;
+            text-decoration:none;
+            }
+            #tab-content .tab
+            {
+                margin-left:450px; 
+                border:0px;
+                padding-top: 40px;
+            }
+            #tab-content h2{
+                text-align:center;padding-top:50px;
+            }
+            .tab {
+                overflow: hidden;
+                border: 1px solid #ccc;
+                background-color: #f1f1f1;
+                }
+
+                /* Style the buttons that are used to open the tab content */
+                .tab button {
+                background-color: inherit;
+                float: left;
+                border: none;
+                outline: none;
+                cursor: pointer;
+                padding: 14px 16px;
+                transition: 0.3s;
+                }
+                #tab-content .tabcontent{
+                    margin-left:450px;
+                    margin-top:70px; 
+                    border-bottom: 0px;
+                }
+
+                /* Change background color of buttons on hover */
+                .tab button:hover {
+                background-color: #ddd;
+                }
+
+                /* Create an active/current tablink class */
+                .tab button.active {
+                background-color: #ccc;
+                }
+
+                /* Style the tab content */
+                .tabcontent {
+                display: none;
+                padding: 6px 12px;
+                border: 2px solid white;
+                border-top: none;
+                }
+                section #tab-content 
+                {
+                    background-color: rgba(238, 238, 238, 1.0); padding-bottom:70px;
+                }
+                footer .col h6{
+                    color: #263348;
+                display: block;
+                font-family: Poppins,sans-serif;
+                font-size: 14px;
+                font-weight: 700;
+                }
+
+
+
+
+
+
+            .logo-footer {
+                    margin-bottom: 40px;
+                }
+                footer {
+                        color:#232323;
+                        background-color:  rgba(204, 204, 204, 1.0);
+                }
+                footer p, a {
+                font-size: 12px;
+                font-family: 'Roboto', sans-serif;
+            }
+            footer h6 {
+                font-family: 'Playfair Display', serif;
+                margin-bottom: 40px;
+                position: relative;
+            }
+            footer h6:after {
+                position: absolute;
+                content: "";
+                background: grey;
+                width: 12%;
+                height: 1px;
+                left: 0;
+                bottom: -20px;
+            }
+                .btn-footer {
+                            color: grey;
+                        
+                            text-decoration: none;
+                            border: 1px solid;
+                            border-radius: 43px;
+                            font-size: 13px;
+                            padding: 7px 30px;
+                            line-height: 47px;
+                }
+                .btn-footer:hover {
+                            
+                            text-decoration: none;
+                        
+                }
+                .form-footer input[type="text"] {
+                border: none;
+                outline: none;
+                padding-left: 10px;
+                
+            }
+            ::placeholder {
+                font-size: 10px;
+                padding-left: 10px;
+                font-style: italic;
+            }
+            .form-footer input[type="button"] {
+                border: none;
+                background-color: #318CE7;
+                margin-left: -5px;
+                color: #fff;
+                outline: none;
+                padding: 2px 12px;
+            }
+                
+                footer ul li {
+                list-style: none;
+                display: block;
+            }
+            footer ul  {
+            padding-left: 0;
+            }
+            footer ul  li a{
+            text-decoration: none;
+            color: black;
+            text-decoration:none;
+            }
+            a:hover {
+                text-decoration: none;
+                color: #f5f5f5 !important;
+                
+            }
+            .logo-part {
+                border-right: 1px solid grey;
+                height: 100%;
+             }
